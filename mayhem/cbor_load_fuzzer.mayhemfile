@@ -1,0 +1,4 @@
+project: PROJECT
+target: cbor_load_fuzzer
+cmds:
+- cmd: /out/cbor_load_fuzzer
